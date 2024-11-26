@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155670406595",
+    "project_id": "allesfresh-3c427",
+    "storage_bucket": "allesfresh-3c427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155670406595:android:582c35692b5df8c770c976",
+        "android_client_info": {
+          "package_name": "com.example.allesfresh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf65Xo8hsmX5mxW530JASuRsRUIPZYum0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
